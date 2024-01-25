@@ -3,12 +3,14 @@
 Fonte do exercício em: (Exercício - Back-end.pdf)
 Arquivo pra ser exportado para o insomnia na pasta /insomnia 
 
+```
 para rodar é nescessario NODEJS
   -> npm install
   -> npm run dev / npm run start
   -> listerning: localhost:3300
+```
 
-
+```
 API Back-end com as seguintes funcionalidades:
 ● Autenticação de Usuário e Senha
     -> POST - /sessions (Logar)
@@ -126,6 +128,6 @@ API Back-end com as seguintes funcionalidades:
        }.
        Header: Authorization Bearer TOKEN (pego na request de login)
 --------------------------------
-
+```
 
 
